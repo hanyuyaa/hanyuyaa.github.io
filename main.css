@@ -46,7 +46,7 @@ body {
 
 body:after {
     display: none;
-    content: url("images/background/bg.jpg") url("images/background/background2.jpg")
+    content: url("images/background/bg.jpg") url("images/background/bg.jpg")
 }
 
 h1,
@@ -711,7 +711,7 @@ pre>code {
 }
 
 .deep-bg {
-    background-image: url("images/background/background2.JPG");
+    background-image: url("images/background/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center

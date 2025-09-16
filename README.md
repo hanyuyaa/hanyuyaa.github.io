@@ -1,2 +1,2 @@
-# Homepage
-This is my personal website: cen-jun.com. Go live on August 29, 2021.
+# Personal Website
+The front page is inspired by Jon Jun CEN's awesome website.
